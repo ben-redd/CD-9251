@@ -11,7 +11,7 @@ locations:
     mappingDefinitions:
       "2":
         database: BEN_EDW
-        schema: WS_SCHEMA_1
+        schema: SMOKE
 macros: {}
 packages: {}
 projects: {}
